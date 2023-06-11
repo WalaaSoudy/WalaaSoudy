@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm walaa soudy</h1>
 <h3 align="center">Computer Science Student at Cairo University</h3>
 
-- 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **React js, css , html , javascript , jquery,php,laravel**
 
 - 📫 How to reach me **walaasoudy36@gmail.com**
 
