@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm  Walaa Soudy 👋</h1>
 
 
-I'm Student at Faculty of Computers and Artificial Intelligence and Information Systems (major)- Cairo University
-interest in Data Science,Web Development.
+<h3>I'm Student at Faculty of Computers and Artificial Intelligence and Information Systems (major)- Cairo University.</h3>
+<h3>interest in Data Science,Web Development.</h3>
 
 - 📫 How to reach me **walaasoudy36@gmail.com**
 
