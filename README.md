@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm walaa soudy</h1>
-<h3 align="center">Computer Science Student at Cairo University</h3>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋</h1>
+
 
 
 
