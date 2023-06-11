@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋</h1>
+<h1 align="center">Hi, I'm  Walaa Soudy</h1>
 
 
 
