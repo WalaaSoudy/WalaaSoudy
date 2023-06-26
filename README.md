@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm  Walaa Soudy 👋</h1>
 
 
-<h5>I'm Student at Faculty of Computers and Artificial Intelligence - Cairo University.</h5>
 
 - 📫 How to reach me **walaasoudy36@gmail.com**
 
