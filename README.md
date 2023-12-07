@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm  Walaa Soudy 👋</h1>
 
-<p>I'm junior Front-End developer. I have experience with HTML, CSS, JavaScript, and React.js for building responsive and user-friendly web interfaces. I am also familiar with Git version control and agile development methodologies. Also, practicing coding with plenty of programming languages as C++, Python, Java and others has provided me with the varying knowledge for building my coding skills and advancing my career in the tech industry.</p>
+<p></p>
 
 - 📫 How to reach me **walaasoudy36@gmail.com**
 
