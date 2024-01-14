@@ -6,7 +6,7 @@ I'm senior computer science student . I have experience with HTML, CSS, JavaScri
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/walaa soudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walaa soudy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/walaa-soudy-2587b2205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walaa soudy" height="30" width="40" /></a>
 </p>
 
 
