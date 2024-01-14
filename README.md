@@ -2,6 +2,13 @@
 
 <p></p>
 
+
+About Me :
+
+I'm senior computer science student . I have experience with HTML, CSS, JavaScript, and React.js for building responsive and user-friendly web interfaces. I am also familiar with Git version control and agile development methodologies. Also, practicing coding with plenty of programming languages as C++, Python, Java and others has provided me with the varying knowledge for building my coding skills and advancing my career in the tech industry.
+<p></p>
+<p></p>
+
 - 📫 How to reach me **walaasoudy36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
