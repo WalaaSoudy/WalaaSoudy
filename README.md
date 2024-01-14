@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walaa Soudy</h1>
-<h3 align="center">Software Engineer</h3>
+<h2 align="center">Software Engineer</h2>
 
 <h3>About Me : </h3>
 I'm senior computer science student . I have experience with HTML, CSS, JavaScript, and React.js for building responsive and user-friendly web interfaces.I work on freelance projects and have experience building websites. I am also familiar with Git version control and agile development methodologies. Also, practicing coding with plenty of programming languages as C++, Python, Java and others has provided me with the varying knowledge for building my coding skills and advancing my career in the tech industry.
