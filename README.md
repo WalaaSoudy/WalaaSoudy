@@ -3,7 +3,7 @@
 <h2 align="center">Software Engineer</h2>
 
 <h3>About Me : </h3>
-I'm senior computer science student . I have experience with HTML, CSS, JavaScript, and React.js for building responsive and user-friendly web interfaces.I work on freelance web development projects. I am also familiar with Git version control and agile development methodologies.
+I'm senior computer science student. I have experience with HTML, CSS, JavaScript, and React.js for building responsive and user-friendly web interfaces. I work on freelance web development projects. I am also familiar with Git version control and agile development methodologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
