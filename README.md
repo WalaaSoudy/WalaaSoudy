@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/walaa-soudy-2587b2205/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
