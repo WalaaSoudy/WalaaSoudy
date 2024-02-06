@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Walaa Soudy</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Node js,Machine Learning**
+- 🌱 I’m currently learning **Node js and Machine Learning**
 
-- 💬 Ask me about **react js**
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/walaa-soudy-2587b2205/**
 
