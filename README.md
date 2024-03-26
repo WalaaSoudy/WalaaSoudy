@@ -4,11 +4,6 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Data+Science+Enthusiastic;ML+Enthusiastic;Software+Engineer;Web+Developer;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Science+Enthusiastic;Software+Engineer;ML+Enthusiastic;Web+Developer)](https://git.io/typing-svg)
-  
-  
-<!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
-
 
 
 - 🌱 I’m currently learning **Data Analysis and Machine Learning**
