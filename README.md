@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walaa Soudy</h1>
 
 
-
-
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Data+Science+Enthusiastic;ML+Enthusiastic;Software+Engineer;Web+Developer;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Science+Enthusiastic;Software+Engineer;ML+Enthusiastic;Web+Developer)](https://git.io/typing-svg)
   
   
