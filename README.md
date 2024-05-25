@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Analysis and Machine Learning**
+
 
 - 💬 Ask me about **React js ,Node js**
 
